@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hola, I'm Andrius 👋
 
+- 🌱 I’m currently learning [React](https://reactjs.org/)
+- 📫 How to reach me: andrius.siupinys@gmail.com
 <!--
 **andrius-siup/andrius-siup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
