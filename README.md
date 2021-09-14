@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-<a href="www.linkedin.com/in/andrius-siupinys"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" /></a>
+<a href="https://www.linkedin.com/in/andrius-siupinys"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" /></a>
 
 ### Languages
 
