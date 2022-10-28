@@ -31,6 +31,12 @@
 
 <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" /></a> <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /></a>
 
+### Badges
+
+#### Hacktoberfest 2022
+
+[![@andriussiu's Holopin board](https://holopin.me/andriussiu)](https://holopin.io/@andriussiu)
+
 <!--
 themes for stats are: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
