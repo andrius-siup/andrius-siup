@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning [JavaScript](https://www.w3schools.com/js/default.asp)
 - 📫 How to reach me: andrius.siupinys@gmail.com
 
-![andrius-siup GitHub stats](https://github-readme-stats.vercel.app/api?username=andrius-siup&show_icons=true&theme=cobalt)
+![andrius-siup GitHub stats](https://github-readme-stats.vercel.app/api?username=andrius-siup&show_icons=true&theme=cobalt&ver=2)
 
 ### Connect with me:
 
